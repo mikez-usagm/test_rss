@@ -17,7 +17,7 @@
     <ttl>15</ttl>
     <item>
       <title>We will not increase income tax or national insurance, Labour says</title>
-      <link>http://podcast-an-mikepa.pythonanywhere.com/100001/bbc.co.uk/news/uk-politics-69063581</link>
+      <link>http://127.0.0.1:8000/100000/bbc.co.uk/news/uk-politics-69063581</link>
       <description>The shadow chancellor told the BBC's Laura Kuenssberg she would face "difficult decisions" on spending.</description>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-69063581#0</guid>
       <pubDate>Sun, 26 May 2024 11:00:00 +0700</pubDate>
@@ -27,7 +27,7 @@
     </item>
     <item>
       <title>Israeli strike hits Rafah area after Hamas rocket barrage</title>
-      <link>http://podcast-an-mikepa.pythonanywhere.com/100001/bbc.com/news/articles/c0kkqkngnedo</link>
+      <link>http://127.0.0.1:8000/100000/bbc.com/news/articles/c0kkqkngnedo</link>
       <description>The Hamas-run health ministry in Gaza says dozens of people have been killed in a refugee camp.</description>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kkqkngnedo#0</guid>
       <pubDate>Mon, 27 May 2024 11:00:00 +0700</pubDate>
